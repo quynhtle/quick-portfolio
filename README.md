@@ -12,11 +12,10 @@
 ---
 ## Education
 <img src="https://github.com/quynhtle/quick-portfolio/blob/master/images/cpp-cba.png?raw=true" width="150" height="150">
-<img src="https://github.com/quynhtle/quick-portfolio/blob/master/images/iu-logo.png?raw=true" width="150" height="150">
 
-- B.Sc., Marketing Management, California State Polytechnic University, Pomona, CA, US | Honors: Magna Cum Laude
+- B.Sc., Marketing Management, California State Polytechnic University, Pomona, CA, US | 
+  Honors: Magna Cum Laude
 
-- Coursework, Business Administration, Ho Chi Minh City International University, Vietnam National University, Vietnam
 
 ---
 ## Research Interest
