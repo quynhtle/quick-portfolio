@@ -4,9 +4,6 @@
 ---
 - [Education](#education)
 - [Research Interest](#research-interest)
-- [Working Experience] (#working-experience)
-- [Teaching Experience] (#teaching-experience)
-- [Leadership] (#leadership)
 - [Publications](#business-related-publications)
 
 
