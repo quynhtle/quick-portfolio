@@ -4,18 +4,17 @@
 ---
 - [Education](#education)
 - [Research Keywords](#research-keywords)
-<!-- - [Dissertation](#dissertation)
-- [Thesis](#thesis) -->
 - [Publications](#publications)
 
 
 ---
 ## Education
 <img src="https://github.com/quynhtle/quick-portfolio/blob/master/images/cpp-cba.png?raw=true" width="150" height="150">
+<img src="https://github.com/quynhtle/quick-portfolio/blob/master/images/iu-logo.png?raw=true" width="150" height="150">
 
-- B.Sc., Marketing Management, California State Polytechnic University, Pomona, CA, US | 
-  Honors: Magna Cum Laude
+- B.Sc., Marketing Management, California State Polytechnic University, Pomona, CA, US | Honors: Magna Cum Laude
 
+- Coursework, Business Administration, Ho Chi Minh City International University, Vietnam National University, Vietnam
 
 ---
 ## Research Interest
@@ -32,7 +31,7 @@
 
 ---
 ## Business-Related Publications
-- Jung, Jae Min, Randy B. Stein, Cailin M. Kuchenbecker, Mahta Mirzaeiramin, Quynh T. Le, and Sophia S. Jung (2018), “Determinants of Adoption of Female Fitness Products: An Evidence from Urban Millennial Women,” in 2018 Global Marketing Conference at Tokyo Proceedings: Bridging Asia and the World: Searching for Academic Excellence and Best Practice in Marketing and Management, Rust, Roland T., Ajay K. Kohli, László Sajtos, Tatsuro Watanabe, Akira Shimizu, and Yung Kyun Choi, eds. Tokyo: Goyang: Korea. https://doi.org/10.15444/GMC2018.08.08.06.
+- Jung, Jae Min, Randy B. Stein, Cailin M. Kuchenbecker, Mahta Mirzaeiramin, Quynh T. Le, and Sophia S. Jung (2018), “Determinants of Adoption of Female Fitness Products: An Evidence from Urban Millennial Women,” in 2018 Global Marketing Conference at Tokyo Proceedings: Bridging Asia and the World: Searching for Academic Excellence and Best Practice in Marketing and Management, Rust, Roland T., Ajay K. Kohli, László Sajtos, Tatsuro Watanabe, Akira Shimizu, and Yung Kyun Choi, eds. Tokyo: Goyang: Korea. [https://doi.org/10.15444/GMC2018.08.08.06](https://doi.org/10.15444/GMC2018.08.08.06).
 
 
 
