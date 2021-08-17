@@ -11,8 +11,8 @@
 
 ---
 ## Education
-<img src="https://github.com/quynhtle/quick-portfolio/edit/master/images/iu-logo.png" width="150" height="150">
-<img src="https://github.com/quynhtle/quick-portfolio/edit/master/images/-logo.png" width="150" height="150">
+<img src="https://github.com/quynhtle/quick-portfolio/blob/master/images/cpp-logo.png" width="150" height="150">
+<img src="https://github.com/quynhtle/quick-portfolio/blob/master/images/iu-logo.png" width="150" height="150">
 
 - B.Sc., Marketing Management, California State Polytechnic University, Pomona, CA, US
 
