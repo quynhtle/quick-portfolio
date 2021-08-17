@@ -23,10 +23,22 @@
 
 ---
 ## Working Experience
-- VinAI Research, AI Research Resident, Ho Chi Minh City, Vietnam
-- Breakthrough Research, Research Associate, Los Angeles, CA, US
-- Adaptive Computation, Research Intern, San Dimas, CA, US
-- Behavioral Business Research Lab, Research Assistant, Pomona, CA, US 
+- 2020 - Present     VinAI Research, AI Research Resident, Ho Chi Minh City, Vietnam
+- 2019 - 2020        Breakthrough Research, Research Associate, Los Angeles, CA, US
+- 2019 - 2020        Adaptive Computation, Research Intern, San Dimas, CA, US
+- 2017 - 2018        Behavioral Business Research Lab, Research Assistant, Pomona, CA, US 
+
+
+---
+## Teaching Experience
+- 2017 - 2017       IBM301 - Principles of Marketing, Teaching Assistant to Ms. Maha Ghosn
+- 2014 - 2015       BA197IU - Introduction to Sociology, Teaching Assistant to Dr. Nguyen Bao Thanh Nghi
+
+---
+## Leadership
+- 2017 - 2018       Cal Poly Pomona's Market Research Club, President, Pomona, CA, US
+- 2015 - 2016       IU Guitar Club, Ho Chi Minh, Vietnam
+- 2014 - 2015       Branding Team Leader, Ho Chi Minh, Vietnam
 
 
 ---
