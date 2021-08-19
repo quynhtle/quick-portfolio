@@ -24,6 +24,11 @@
 - 2019 - 2020        Adaptive Computation, Research Intern, San Dimas, CA, US
 - 2017 - 2018        Behavioral Business Research Lab, Research Assistant, Pomona, CA, US 
 
+- AI Research Resident @ VinAI Ressearch, Vietnam
+- Research Associate @ Breathrough Research, CA, US
+- Research Intern @ Adaptive Computation, CA, US
+- Research Assistant @ Behavioral Business Research Lab, CA, US
+
 
 ---
 ## Teaching Experience
