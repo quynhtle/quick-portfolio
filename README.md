@@ -19,15 +19,10 @@
 
 ---
 ## Working Experience
-- 2020 - Present     VinAI Research, AI Research Resident, Ho Chi Minh City, Vietnam
-- 2019 - 2020        Breakthrough Research, Research Associate, Los Angeles, CA, US
-- 2019 - 2020        Adaptive Computation, Research Intern, San Dimas, CA, US
-- 2017 - 2018        Behavioral Business Research Lab, Research Assistant, Pomona, CA, US 
-
-- AI Research Resident @ VinAI Ressearch, Vietnam
-- Research Associate @ Breathrough Research, CA, US
-- Research Intern @ Adaptive Computation, CA, US
-- Research Assistant @ Behavioral Business Research Lab, CA, US
+- 2020 - Present |     VinAI Research, AI Research Resident, Vietnam
+- 2019 - 2020        Breakthrough Research, Research Associate, CA, US
+- 2019 - 2020        Adaptive Computation, Research Intern, CA, US
+- 2017 - 2018        Behavioral Business Research Lab, Research Assistant, CA, US 
 
 
 ---
